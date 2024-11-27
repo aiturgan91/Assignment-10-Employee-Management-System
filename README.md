@@ -1,13 +1,14 @@
 Employee Management System
+This Employee Management System helps you manage employee records and calculate their salaries based on their employment type: Full-time, Part-time, or Contractor. It’s a simple yet effective tool for keeping everything organized and automating salary calculations.
 
 
 
-Add new employees with their details:
-Name
-Employment type (Full-time, Part-time, Contractor)
-Annual salary or hourly rate and hours worked
-View employees in a table
-Remove employees from the system
+1)Add new employees with their details:
+2)Name
+3)Employment type (Full-time, Part-time, Contractor)
+4)Annual salary or hourly rate and hours worked
+5)View employees in a table
+6)Remove employees from the system
 Automatic salary calculation based on employment type
 
 Adding an Employee:
